@@ -1,38 +1,3 @@
-<p align="center">
-  <img src="./.github/images/saas-bp-logo.png" alt="SaaS Boilerplate">
-</p>
-
-<h1 align="center">Build SaaS products faster in React, Django and AWS.</h1>
-<h2 align="center">A complete SaaS starter kit based on a battle-tested stack with out-of-the-box features every SaaS should have</h2>
-
-<p align="center">
-  <a href="https://github.com/apptension/saas-boilerplate">
-    <img src="https://img.shields.io/github/v/release/apptension/saas-boilerplate?style=for-the-badge" alt="Version">
-  </a>
-
-  <a href="https://github.com/apptension/saas-boilerplate">
-    <img src="https://img.shields.io/github/license/apptension/saas-boilerplate?style=for-the-badge" alt="License">
-  </a>
-
-  <a href="https://twitter.com/apptension">
-    <img src="https://img.shields.io/twitter/follow/apptension?style=for-the-badge&logo=twitter" alt="Follow Us on Twitter">
-  </a>
-
-  <a href="https://discord.apptension.com">
-    <img src="https://img.shields.io/discord/1122849885335597088?style=for-the-badge&logo=discord" alt="Chat with us on Discord">
-  </a>
-</p>
-
----
-
-📖 [**SaaS Boilerplate Documentation**](https://docs.demo.saas.apptoku.com/)
-
-🌟 [**SaaS Boilerplate Page**](https://www.apptension.com/saas-boilerplate?utm_source=readme-file&utm_medium=referral&utm_campaign=SaaS%20Boilerplate&utm_term=SaaS%20Boilerplate)
-
-🚀 [**SaaS Boilerplate Demo**](https://app.demo.saas.apptoku.com/)
-
----
-
 Supercharge your SaaS development with our comprehensive starter kit, designed to accelerate your project and save you
 valuable time and resources. Our battle-tested boilerplate eliminates the need for extensive configuration and
 development work, allowing you to focus on innovation from day one.
